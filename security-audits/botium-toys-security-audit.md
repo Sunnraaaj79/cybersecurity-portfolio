@@ -122,3 +122,9 @@ It also helped me understand the relationship between security controls, risk ma
 Google Cybersecurity Professional Certificate
 
 Project type: Simulated Security Audit
+
+## Evidence
+
+The original assessment document is available below:
+
+[View Security Audit Evidence](./botium-toys-security-audit-evidence.pdf)
