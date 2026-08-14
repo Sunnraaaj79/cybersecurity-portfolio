@@ -65,18 +65,16 @@ The assessment considered:
 
 ## Key Findings
 
-The assessment identified several areas where additional controls were needed to improve Botium Toys' security posture.
-
-Key areas included:
-
-- Least privilege
-- Disaster recovery
-- Password policies
-- Separation of duties
-- Intrusion detection
-- Legacy system management
-- Encryption
-- Password management
+| Control Area | Finding | Recommended Action |
+|---|---|---|
+| Least Privilege | Excessive access can increase the impact of compromised accounts | Implement role-based access and least-privilege permissions |
+| Password Policies | Weak password controls can increase account compromise risk | Establish stronger password requirements |
+| Separation of Duties | Lack of separation can increase the risk of unauthorized activity | Separate critical responsibilities between users |
+| Disaster Recovery | Lack of recovery planning can increase downtime and data-loss risk | Develop and document disaster recovery procedures |
+| Intrusion Detection | Lack of IDS reduces visibility into suspicious network activity | Implement intrusion detection capabilities |
+| Encryption | Sensitive information may require stronger protection | Implement appropriate encryption controls |
+| Password Management | Lack of centralized password management can increase credential risk | Implement a secure password management system |
+| Asset Classification | Incomplete classification can make it difficult to apply appropriate controls | Classify and inventory organizational assets |
 
 ## Recommendations
 
@@ -92,6 +90,14 @@ Particular attention should be given to:
 6. Improving encryption practices
 7. Establishing a password management system
 8. Properly classifying and inventorying assets
+
+## Methodology
+
+1. Reviewed the organization's scope, goals, and risk assessment information.
+2. Assessed relevant security controls.
+3. Evaluated applicable compliance best practices.
+4. Identified control gaps.
+5. Developed risk-based recommendations to improve the organization's security posture.
 
 ## Skills Demonstrated
 
