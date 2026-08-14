@@ -8,10 +8,9 @@ This repository documents my hands-on cybersecurity learning, labs, security ass
 
 - Cybersecurity Fundamentals
 - Networking Fundamentals
-- Linux
+- Linux Fundamentals
 - Security Auditing
-- Security Operations (SOC)
-- Threat Detection and Incident Response
+- Security Operations Fundamentals
 
 ## Learning Path
 
