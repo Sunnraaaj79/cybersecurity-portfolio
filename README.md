@@ -24,16 +24,49 @@ This repository documents my hands-on cybersecurity learning, labs, security ass
 
 ### Hands-on Practice
 
-- TryHackMe — In Progress
+- TryHackMe Pre Security — Completed
 - Security Audit — Completed
 - Cybersecurity labs and practical exercises — Ongoing
+
+## TryHackMe
+
+### Pre Security Path — Completed
+
+Completed the TryHackMe Pre Security learning path, building foundational knowledge across computers, operating systems, software, networking, web technologies, and cybersecurity.
+
+**Key areas covered:**
+
+- Computer fundamentals and client-server architecture
+- Windows and Linux fundamentals
+- Linux and Windows command-line interfaces
+- Operating system security
+- Python and JavaScript basics
+- SQL and databases
+- Networking fundamentals and the OSI model
+- Packets, frames, LANs and network devices
+- DNS and HTTP
+- How websites work
+- CIA Triad
+- Cryptography fundamentals
+- Offensive and defensive security concepts
+
+**Hands-on practice included:**
+
+- Linux CLI exercises
+- Windows CLI exercises
+- Networking fundamentals labs
+- DNS and HTTP exercises
+- Basic offensive security exercises
+- Basic defensive security exercises
+
+**Status:** Completed
 
 ## Portfolio Projects
 
 | Project | Description | Status |
 |---|---|---|
 | Security Audit | Security audit based on a simulated organization | Completed |
-| TryHackMe Labs | Hands-on cybersecurity labs and exercises | In Progress |
+| TryHackMe Pre Security | Foundational cybersecurity labs and hands-on exercises | Completed |
 | Google Cybersecurity Labs | Practical exercises from Google Cybersecurity Certificate | In Progress |
 
 ## Skills
