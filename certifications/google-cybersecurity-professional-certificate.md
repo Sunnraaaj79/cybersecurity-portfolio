@@ -1,5 +1,9 @@
 # Google Cybersecurity Professional Certificate
 
+## Status
+
+**Completed — 2026**
+
 ## Overview
 
 Completed the Google Cybersecurity Professional Certificate, developing foundational and practical knowledge across cybersecurity, networking, Linux, SQL, Python, security operations, threat and vulnerability management, and security auditing.
@@ -85,7 +89,3 @@ The certificate included hands-on activities and exercises involving:
 - Learned how to identify and assess threats and vulnerabilities.
 - Gained exposure to security monitoring, incident response, and SIEM concepts.
 - Applied security concepts through practical exercises and security assessments.
-
-## Status
-
-**Completed — 2026**
